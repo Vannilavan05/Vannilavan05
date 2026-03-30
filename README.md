@@ -1,16 +1,75 @@
-## Hi there 👋
 
-<!--
-**Vannilavan05/Vannilavan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Vannilavan C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.E Engineering Student | 🤖 Aspiring AI Engineer | 💻 Developer  
+📍 Tamil Nadu, India  
+
+---
+
+## 🚀 About Me
+
+I am passionate about building real-world solutions using **Artificial Intelligence and Machine Learning**.  
+I focus on learning by doing — creating projects, solving problems, and continuously improving my skills.
+
+---
+
+## 🛠️ Skills
+
+- **Programming:** Python, Java, JavaScript, SQL  
+- **AI/ML:** Scikit-learn, TensorFlow (Basics), Data Analysis  
+- **Tools:** Git, VS Code, Pandas, NumPy  
+
+---
+
+## 📂 Projects
+
+### 🔹 ATM Fraud Detection
+🚀 Machine Learning project to detect fraudulent ATM transactions  
+
+- Data preprocessing & feature engineering  
+- Classification using Scikit-learn  
+- Real-world financial use case  
+
+🔗 https://github.com/Vannilavan05/atm-fraud-detection  
+
+---
+
+### 🔹 Solo Leveling
+💻 Development-based project demonstrating logic building and structure  
+
+- Clean code practices  
+- Independent project execution  
+
+🔗 https://github.com/Vannilavan05/solo_leveling  
+
+---
+
+## 📜 Certifications
+
+- AI & Future Skills – AgentBlazer  
+- Salesforce Certification  
+- NASSCOM – IoT & Digital Transformation  
+- AWS Internship / Cloud Computing  
+- Power BI – Data Analytics  
+
+📌 More details on my LinkedIn  
+
+---
+
+## 📊 GitHub Stats
+
+![Vannilavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vannilavan05&show_icons=true)
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/vannilavan-chandrasekaran-537223317  
+- 📧 Email: vannilavanchandrasekaran@gmail.com  
+
+---
+
+## ⚡ Motto
+
+_"I learn by building real-world projects, not just theory."_
