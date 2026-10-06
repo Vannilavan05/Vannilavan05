@@ -16,9 +16,9 @@ I focus on learning by doing — creating projects, solving problems, and contin
 
 ## 🛠️ Skills
 
-- **Programming:** Python, Java, JavaScript, SQL  
-- **AI/ML:** Scikit-learn, TensorFlow (Basics), Data Analysis  
-- **Tools:** Git, VS Code, Pandas, NumPy  
+- **Programming:** Python, SQL , AWS
+- **AI/ML:** numpy, pandas, Data Analysis  
+- **Tools:** Git, VS Code ,Docker,Kubernetes
 
 ---
 
@@ -73,3 +73,8 @@ I focus on learning by doing — creating projects, solving problems, and contin
 ## ⚡ Motto
 
 _"I learn by building real-world projects, not just theory."_
+
+
+## Portfolio
+
+ - portfolio-self-six-45.vecel.app
