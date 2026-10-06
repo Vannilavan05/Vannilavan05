@@ -77,4 +77,4 @@ _"I learn by building real-world projects, not just theory."_
 
 ## Portfolio
 
- - portfolio-self-six-45.vecel.app
+ - [portfolio-self-six-45.vecel.app](https://portfolio-self-six-45.vercel.app/)
