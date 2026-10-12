@@ -1,9 +1,9 @@
 
 
-# 👋 Hi, I'm Vannilavan C
+# 👋 Hi, I'm Vannilavan
 
-🎓 B.E Engineering Student | 🤖 Aspiring AI Engineer | 💻 Developer  
-📍 Tamil Nadu, India  
+🎓 B.Tech Engineering Student | 🤖 Aspiring AI Engineer | 💻 Developer  | SAP and AWS Enthusiasts
+📍 Krishnagiri, Tamil Nadu, India  
 
 ---
 
@@ -19,29 +19,6 @@ I focus on learning by doing — creating projects, solving problems, and contin
 - **Programming:** Python, SQL , AWS
 - **AI/ML:** numpy, pandas, Data Analysis  
 - **Tools:** Git, VS Code ,Docker,Kubernetes
-
----
-
-## 📂 Projects
-
-### 🔹 ATM Fraud Detection
-🚀 Machine Learning project to detect fraudulent ATM transactions  
-
-- Data preprocessing & feature engineering  
-- Classification using Scikit-learn  
-- Real-world financial use case  
-
-🔗 https://github.com/Vannilavan05/atm-fraud-detection  
-
----
-
-### 🔹 Solo Leveling
-💻 Development-based project demonstrating logic building and structure  
-
-- Clean code practices  
-- Independent project execution  
-
-🔗 https://github.com/Vannilavan05/solo_leveling  
 
 ---
 
